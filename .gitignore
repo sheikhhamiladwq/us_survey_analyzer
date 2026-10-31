@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# External datasets
+data/external/
+data/raw/
+data/processed/
+
+# Generated outputs
+output/
+
+# VS Code
+.vscode/
