@@ -105,7 +105,7 @@ us_survey_analyzer/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/sheikhhamiladwq/us_survey_analyzer.git
 cd us_survey_analyzer
 ```
 
